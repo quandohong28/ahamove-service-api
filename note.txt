@@ -1,0 +1,11 @@
+API Keys are used to authenticate your application and control its access to the AhaMove API.
+
+API Key (server key): 
+3c55d5a9ec528d4630c8667ac60341e03b98aa74
+
+API Domain: https://apistg.ahamove.com
+Partner Portal: https://partnerstg.ahamove.com/v2
+
+App Driver: https://play.google.com/store/apps/details?id=com.ahamove.supplier.staging
+
+For more information about AhaMove API, please refer to the documentation here: https://developers.ahamove.com
